@@ -1,0 +1,66 @@
+{
+  "navigation": {
+    "home": "الرئيسية",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب"
+  },
+  "footer": {
+    "copyright": "© 2025 انفستورا. جميع الحقوق محفوظة."
+  },
+  "auth": {
+    "registration": {
+      "title": "إنشاء حسابك",
+      "subtitle": "ابدأ رحلة الاستثمار اليوم",
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "أدخل اسمك الكامل",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "أدخل بريدك الإلكتروني",
+      "password": "كلمة المرور",
+      "passwordPlaceholder": "أنشئ كلمة مرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "confirmPasswordPlaceholder": "تأكيد كلمة المرور",
+      "investorType": "نوع المستثمر",
+      "individual": "مستثمر فردي",
+      "institutional": "مستثمر مؤسسي",
+      "corporate": "كيان شركة",
+      "investmentGoal": "هدف الاستثمار الرئيسي",
+      "goalPlaceholder": "اختر هدفك",
+      "retirement": "التخطيط للتقاعد",
+      "wealth": "بناء الثروة",
+      "income": "دخل منتظم",
+      "preservation": "الحفاظ على رأس المال",
+      "growth": "نمو قوي",
+      "termsAccepted": "أوافق على",
+      "termsOfService": "شروط الخدمة",
+      "privacyPolicy": "سياسة الخصوصية",
+      "investmentDisclaimer": "إخلاء المسؤولية الاستثمارية",
+      "createAccount": "إنشاء حساب",
+      "alreadyHaveAccount": "لديك حساب بالفعل؟",
+      "signIn": "تسجيل الدخول"
+    },
+    "login": {
+      "title": "تسجيل الدخول إلى حسابك",
+      "subtitle": "مرحبًا بعودتك إلى منصة الاستثمار",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "أدخل بريدك الإلكتروني",
+      "password": "كلمة المرور",
+      "passwordPlaceholder": "أدخل كلمة المرور",
+      "forgotPassword": "نسيت كلمة المرور؟",
+      "rememberMe": "تذكرني",
+      "signIn": "تسجيل الدخول",
+      "noAccount": "ليس لديك حساب؟",
+      "createAccount": "أنشئ حسابًا الآن"
+    }
+  },
+  "errors": {
+    "required": "{field} مطلوب",
+    "invalidEmail": "البريد الإلكتروني غير صالح",
+    "passwordLength": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+    "passwordsDoNotMatch": "كلمات المرور غير متطابقة",
+    "acceptTerms": "يجب عليك قبول الشروط والأحكام"
+  },
+  "language": {
+    "english": "الإنجليزية",
+    "arabic": "العربية"
+  }
+}

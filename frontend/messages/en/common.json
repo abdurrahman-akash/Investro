@@ -1,0 +1,66 @@
+{
+  "navigation": {
+    "home": "Home",
+    "login": "Sign in",
+    "register": "Create account"
+  },
+  "footer": {
+    "copyright": "© 2025 Investora. All rights reserved."
+  },
+  "auth": {
+    "registration": {
+      "title": "Create your account",
+      "subtitle": "Start your investment journey today",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Create a password",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Confirm your password",
+      "investorType": "Investor Type",
+      "individual": "Individual Investor",
+      "institutional": "Institutional Investor",
+      "corporate": "Corporate Entity",
+      "investmentGoal": "Primary Investment Goal",
+      "goalPlaceholder": "Select your goal",
+      "retirement": "Retirement Planning",
+      "wealth": "Wealth Building",
+      "income": "Regular Income",
+      "preservation": "Capital Preservation",
+      "growth": "Aggressive Growth",
+      "termsAccepted": "I agree to the",
+      "termsOfService": "Terms of Service",
+      "privacyPolicy": "Privacy Policy",
+      "investmentDisclaimer": "Investment Disclaimer",
+      "createAccount": "Create Account",
+      "alreadyHaveAccount": "Already have an account?",
+      "signIn": "Sign in"
+    },
+    "login": {
+      "title": "Sign in to your account",
+      "subtitle": "Welcome back to your investment platform",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot your password?",
+      "rememberMe": "Remember me",
+      "signIn": "Sign in",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create one now"
+    }
+  },
+  "errors": {
+    "required": "{field} is required",
+    "invalidEmail": "Email is invalid",
+    "passwordLength": "Password must be at least 8 characters",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "acceptTerms": "You must accept the terms and conditions"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "Arabic"
+  }
+}
